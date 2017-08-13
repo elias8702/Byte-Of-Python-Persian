@@ -1,0 +1,28 @@
+<div dir=rtl>
+
+# فهرست
+
+* [فداکاریها](dedication.md)
+* [مقدمه](preface.md)
+* [درباره‌ی پایتون](about_python.md)
+* [نصاب](installation.md)
+* [گام اولیه](first_steps.md)
+* [اساس و پایه](basics.md)
+* [عملوند‌ها و عبارات‌ها](op_exp.md)
+* [کنترل گردش](control_flow.md)
+* [تابع‌ها](functions.md)
+* [ماژول‌ها](modules.md)
+* [ساختار‌داده‌ها](data_structures.md)
+* [حل مسئله](problem_solving.md)
+* [برنامه‌نویسی شی‌گرایی](oop.md)
+* [ورودی‌وخروجی‌ها](io.md)
+* [استثناها](exceptions.md)
+* [کتابخانه‌های استاندارد](stdlib.md)
+* [بیشتر](more.md)
+* [خوب بعدش چی](what_next.md)
+* [ضمیمه: دنیای‌متن‌باز](floss.md)
+* [ضمیمه: درباره](about.md)
+* [ضمیمه: تاریخچه](revision_history.md)
+* [ضمیمه: مترجمین](translations.md)
+* [ضمیمه: چگونه ترجمه کنیم](translation_howto.md)
+* [بازخوردها](feedback.md)
