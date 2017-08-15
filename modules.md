@@ -1,3 +1,3 @@
-<div dir=ltr>
+<div dir=rtl>
 
 اضافه خواهد شد
