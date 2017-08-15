@@ -1,7 +1,6 @@
-<div dir=rtl>
+# Summary
 
-# فهرست
-
+* [من‌را‌بخوان](README.md)
 * [فداکاریها](dedication.md)
 * [مقدمه](preface.md)
 * [درباره‌ی پایتون](about_python.md)
@@ -26,3 +25,4 @@
 * [ضمیمه: مترجمین](translations.md)
 * [ضمیمه: چگونه ترجمه کنیم](translation_howto.md)
 * [بازخوردها](feedback.md)
+
