@@ -149,7 +149,7 @@
 
 - [نسخه‌ی گیت‌هاب](https://github.com/elyas8702/A-Byte-of-Python-Farsi)
 
-- [نسخه‌ی گیت‌بوگ](https://www.gitbook.com/read/book/elyas/a-byte-of-python-parsi)
+-  [نسخه‌ی گیت‌بوک](https://elias_rouhani.gitbooks.io/byte-of-python-persian/content/)
 
 
 

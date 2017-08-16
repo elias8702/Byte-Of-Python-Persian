@@ -16,7 +16,7 @@
 
 برای مشاهده برنامه‌ها بهتر است به  لینک زیر سر بزنید:
 
- [نسخه‌ی گیت‌بوک](https://elyas.gitbooks.io/a-byte-of-python-parsi/content/control_flow.html)
+ [نسخه‌ی گیت‌بوک](https://elias_rouhani.gitbooks.io/byte-of-python-persian/content/)
 
 <div dir=ltr>
 
@@ -92,7 +92,7 @@ if True:
 
 برای مشاهده برنامه‌ها بهتر است به  لینک زیر سر بزنید:
 
- [نسخه‌ی گیت‌بوک](https://elyas.gitbooks.io/a-byte-of-python-parsi/content/control_flow.html)
+ [نسخه‌ی گیت‌بوک](https://elias_rouhani.gitbooks.io/byte-of-python-persian/content/)
 
 
 

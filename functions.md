@@ -15,7 +15,7 @@
 
 برای مشاهده برنامه‌ها بهتر است به  لینک زیر سر بزنید:
 
- [نسخه‌ی گیت‌بوک](https://elyas.gitbooks.io/a-byte-of-python-parsi/content/functions.html)
+ [نسخه‌ی گیت‌بوک](https://elias_rouhani.gitbooks.io/byte-of-python-persian/content/)
 
 
 
@@ -57,7 +57,7 @@
 
 برای مشاهده برنامه‌ها بهتر است به  لینک زیر سر بزنید:
 
- [نسخه‌ی گیت‌بوک](https://elyas.gitbooks.io/a-byte-of-python-parsi/content/functions.html)
+ [نسخه‌ی گیت‌بوک](https://elias_rouhani.gitbooks.io/byte-of-python-persian/content/)
 
 
 
@@ -97,7 +97,7 @@
 
 برای مشاهده برنامه‌ها بهتر است به  لینک زیر سر بزنید:
 
- [نسخه‌ی گیت‌بوک](https://elyas.gitbooks.io/a-byte-of-python-parsi/content/functions.html)
+ [نسخه‌ی گیت‌بوک](https://elias_rouhani.gitbooks.io/byte-of-python-persian/content/)
 
 
 
@@ -142,7 +142,7 @@
 
 برای مشاهده برنامه‌ها بهتر است به  لینک زیر سر بزنید:
 
- [نسخه‌ی گیت‌بوک](https://elyas.gitbooks.io/a-byte-of-python-parsi/content/functions.html)
+ [نسخه‌ی گیت‌بوک](https://elias_rouhani.gitbooks.io/byte-of-python-persian/content/)
 
 
 برای مثال (فایلی با نام  `function_global.py` ذخیره کنید)
@@ -183,7 +183,7 @@
 
 برای مشاهده برنامه‌ها بهتر است به  لینک زیر سر بزنید:
 
- [نسخه‌ی گیت‌بوک](https://elyas.gitbooks.io/a-byte-of-python-parsi/content/functions.html)
+ [نسخه‌ی گیت‌بوک](https://elias_rouhani.gitbooks.io/byte-of-python-persian/content/)
 
 
 
@@ -231,7 +231,7 @@
 
 برای مشاهده برنامه‌ها بهتر است به  لینک زیر سر بزنید:
 
- [نسخه‌ی گیت‌بوک](https://elyas.gitbooks.io/a-byte-of-python-parsi/content/functions.html)
+ [نسخه‌ی گیت‌بوک](https://elias_rouhani.gitbooks.io/byte-of-python-persian/content/)
 
 
 برای مثال (فایلی با نام `function_keyword.py` ذخیره کنید)
