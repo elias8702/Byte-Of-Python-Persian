@@ -40,7 +40,7 @@
 <div dir=ltr>
 
 
-<pre><code class="lang-python">{% include "./programs/ds_using_list.py" %}</code></pre>
+<pre><code>{% include "./programs/ds_using_list.py" %}</code></pre>
 
 <div dir=rtl>
 
