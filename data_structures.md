@@ -30,6 +30,28 @@
 
 همانطور که در مثال بالا می‌بینید ایتم حسین را به mylist اضافه می‌کند. نکته با استفاده از نقطه امکان دسترسی به متد‌های ان اشیا را داریم.
 
+یک کلاس همچنین می‌تواند *fields* داشته باشد. این متغییرها/نام‌ها را زمانی می‌توانید استفاده کنیدکه شی از ان کلاس داشته باشید. فیلد های هم با نقطه قابل دسترس هستند. برای مثال:`mylist.field`
+
+
+
+
+برای مثال (فایل `ds_using_list.py` را ذخیره کنید)
+
+<div dir=ltr>
+
+
+<pre><code class="lang-python">{% include "./programs/ds_using_list.py" %}</code></pre>
+
+<div dir=rtl>
+
+
+خروجی:
+
+<div dir=ltr>
+
+<pre><code>{% include "./programs/ds_using_list.txt" %}</code></pre>
+
+<div dir=rtl>
 
 
 
