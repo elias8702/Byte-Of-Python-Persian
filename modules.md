@@ -187,6 +187,33 @@ from mymodule import *
 اگر ارگومانی وجود نداشته باشد، تابع لیست ماژول‌های فعلی را فراخوانی می‌کند.
 
 مثال:
+<div dir=ltr>
+
+```python
+$ python
+>>> import sys
+اسامی صفات را در ماژول sys دریافت کنید؛
+>>> dir(sys)
+['__displayhook__', '__doc__',
+'argv', 'builtin_module_names',
+'version', 'version_info']
+
+فقط چند نوشته در اینجا نشان داده شده است
+
+نام اسناد برای ماژول فعلی را دریافت کنید
+>> dir()
+['__builtins__', '__doc__',
+'__name__', '__package__']
+ایجاد یک متغیر جدید 'a'
+>> a = 5
+>>> dir()
+['__builtins__', '__doc__', '__name__', '__package__', 'a']
+حذف / حذف نام
+>>> del a
+>>> dir()
+['__builtins__', '__doc__', '__name__', '__package__']
+```
+<div dir=rtl>
 
 **چطوری و چگونه**
 
